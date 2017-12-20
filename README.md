@@ -1,4 +1,0 @@
-# Forschungsprojekt
-test
-teest
-etest
